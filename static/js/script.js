@@ -8,20 +8,63 @@ $(document).ready(function () {
 
        e.preventDefault();
        $('#gallerie').html('');
+       $('#tables').html('');
+
 
      var team1 = $("#team1_id option:selected").val();
      var team2 = $("#team2_id option:selected").val();
 
-      /* $.ajax({
-          url:'/get_rating',
-           data: {team1:$("#team1_id option:selected").val(),
-               team2:$("#team2_id option:selected").val()
+      $.ajax({
+          url:'/last_games_team1',
+           data: {team1:team1,
+               team2:team2
            }
 
        }).done(function (data) {
-           $('#rating_img').html(data);
+           $('#tables').append(data);
       });
-      */
+
+       $.ajax({
+          url:'/last_games_team2',
+           data: {team1:team1,
+               team2:team2
+           }
+
+       }).done(function (data) {
+           $('#tables').append(data);
+      });
+
+
+     $.ajax({
+          url:'/duel_table',
+           data: {team1:team1,
+               team2:team2
+           }
+
+       }).done(function (data) {
+           $('#tables').append(data);
+      });
+
+     $.ajax({
+          url:'/rating_table',
+           data: {team1:team1,
+               team2:team2
+           }
+
+       }).done(function (data) {
+           $('#tables').append(data);
+      });
+
+     $.ajax({
+          url:'/positional_rating_table',
+           data: {team1:team1,
+               team2:team2
+           }
+
+       }).done(function (data) {
+           $('#tables').append(data);
+      });
+
        //var img2 = new Image()
 
        var img;
