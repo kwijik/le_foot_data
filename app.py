@@ -94,6 +94,7 @@ def get_positional_rating():
     df = pd.read_sql(
         sql='SELECT * from season WHERE home_team=? OR away_team=?  ORDER BY nmseason',
         con=conn, params=(home, away,))
+    print(df[df.nmseason==11])
     seasons_tableau = df["nmseason"].unique()
     dict_res = {}
     teams = [home, away]
@@ -109,7 +110,7 @@ def get_positional_rating():
         else:
             rate = 0
         arr.append(rate)
-        dict_res1[home] = arr
+    dict_res1[home] = arr
 
     arr = []
     for s in seasons_tableau:
@@ -120,11 +121,12 @@ def get_positional_rating():
             rate = (goals_for - goals_against) / number_of_games
         else:
             rate = 0
+#print("For:{}, Against:{}, games:{}, seasom:{}, rate:{}".format(goals_for, goals_against, number_of_games, s,rate))
         arr.append(rate)
-        dict_res1[away] = arr
+    dict_res1[away] = arr
 
     df3 = pd.DataFrame(dict_res1, index=seasons_tableau, columns=teams)
-
+    print(df3)
     df3.plot()
 
     img = BytesIO()
