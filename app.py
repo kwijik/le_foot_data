@@ -26,9 +26,8 @@ def index():
 
     #return render_template("index.html", table = df1.head().to_html(), path = plotfile, teams = list_of_teams)
     return render_template("index.html", teams = list_of_teams)
-
+"""
 @app.route("/get_table")
-
 def get_table():
     conn = sqlite3.connect('data_app/seasons.db')
 
@@ -40,6 +39,7 @@ def get_table():
     df = pd.read_sql(sql='SELECT * from season WHERE home_team=? OR away_team=? OR home_team=? OR away_team=?', con=conn, params=(team1, team1,team2,team2,))
 
     return df.to_html()
+"""
 
 
 @app.route("/duel_table")
