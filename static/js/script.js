@@ -10,6 +10,21 @@ $(document).ready(function () {
        $('#gallerie').html('');
        $('#tables').html('');
 
+       $('#tables').append($("<h3>Last games of the teams</h3>"));
+       var div_last_games = $("<div>").addClass('all_floats');
+        $('#tables').append(div_last_games);
+
+       $('#tables').append($("<h3>Duel table</h3>"));
+       var div_duel_games = $("<div>").addClass('all_floats');
+       $('#tables').append(div_duel_games);
+
+       $('#tables').append($("<h3>General rating</h3>"));
+       var div_general_rating = $("<div>").addClass('all_floats');
+       $('#tables').append(div_general_rating);
+
+       $('#tables').append($("<h3>Positional rating</h3>"));
+       var div_positional_rating = $("<div>").addClass('all_floats');
+       $('#tables').append(div_positional_rating);
 
      var team1 = $("#team1_id option:selected").val();
      var team2 = $("#team2_id option:selected").val();
@@ -21,7 +36,7 @@ $(document).ready(function () {
            }
 
        }).done(function (data) {
-           $('#tables').append(data);
+           div_last_games.append(data);
       });
 
        $.ajax({
@@ -31,8 +46,8 @@ $(document).ready(function () {
            }
 
        }).done(function (data) {
-           $('#tables').append(data);
-      });
+            div_last_games.append(data);
+       });
 
 
      $.ajax({
@@ -42,7 +57,7 @@ $(document).ready(function () {
            }
 
        }).done(function (data) {
-           $('#tables').append(data);
+           div_duel_games.append(data);
       });
 
      $.ajax({
@@ -52,7 +67,7 @@ $(document).ready(function () {
            }
 
        }).done(function (data) {
-           $('#tables').append(data);
+           div_general_rating.append(data);
       });
 
      $.ajax({
@@ -62,7 +77,7 @@ $(document).ready(function () {
            }
 
        }).done(function (data) {
-           $('#tables').append(data);
+           div_positional_rating.append(data);
       });
 
        //var img2 = new Image()
@@ -80,18 +95,16 @@ $(document).ready(function () {
         div = $("<div>");
         div.addClass("image_block");
         img.src = "/get_rating?team1="+encodeURIComponent(team1)+"&team2="+encodeURIComponent(team2);
-        div.append($("<h5>Image for get_rating</h5>"));
         div.append(img);
-        $('#gallerie').append(div);
+        div_general_rating.append(div);
 
         // positional rating img:
         img = new Image();
         div = $("<div>");
         div.addClass("image_block");
         img.src = "/get_positional_rating?team1="+encodeURIComponent(team1)+"&team2="+encodeURIComponent(team2);
-        div.append($("<h5>Image for get_positional_rating</h5>"));
         div.append(img);
-        $('#gallerie').append(div);
+        div_positional_rating.append(div);
 
        return false;
    });

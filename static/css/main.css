@@ -1,7 +1,27 @@
+body{
+    background-color: gainsboro;
+}
 h1{
     color: red;
 }
 
 .image_block{
     display: inline-block;
+}
+
+.all_floats::after{
+    content: "&nbsp;";
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+    display: block;
+    clear: both;
+}
+.all_floats > table, .all_floats > img, .all_floats > div {
+    float: left;
+    margin-left: 10px;
+}
+
+table{
+    background-color: white;
 }

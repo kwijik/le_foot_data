@@ -39,6 +39,8 @@ def get_table():
     df = pd.read_sql(sql='SELECT * from season WHERE home_team=? OR away_team=? OR home_team=? OR away_team=?', con=conn, params=(team1, team1,team2,team2,))
 
     return df.to_html()
+    
+    z-index = (3 - mean) / standard deviation = 
 """
 
 

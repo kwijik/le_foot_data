@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0493e75-c885-4e7e-95bc-ed7b4c0476dc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_app/.ipynb_checkpoints/testing-checkpoint.ipynb" afterPath="$PROJECT_DIR$/data_app/.ipynb_checkpoints/testing-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_app/testing.ipynb" afterPath="$PROJECT_DIR$/data_app/testing.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/main.css" afterPath="$PROJECT_DIR$/static/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/script.js" afterPath="$PROJECT_DIR$/static/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +22,7 @@
       <file leaf-file-name="data_app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_app/data_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="600">
               <caret line="45" column="91" lean-forward="false" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="91" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -40,24 +43,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="750">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="59" selection-end-column="0" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
-                <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-                <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-                <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-                <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-                <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-                <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-                <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-                <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-                <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-                <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-                <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+                <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+                <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+                <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+                <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
               </folding>
             </state>
           </provider>
@@ -66,8 +69,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="1425">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding>
                 <element signature="e#0#51#0" expanded="false" />
               </folding>
@@ -78,7 +81,7 @@
       <file leaf-file-name="reading.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_app/reading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="75">
               <caret line="7" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -91,18 +94,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="16" />
+            <state relative-caret-position="555">
+              <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="15">
+              <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -134,10 +137,10 @@
       <list>
         <option value="$PROJECT_DIR$/data_app/reading.py" />
         <option value="$PROJECT_DIR$/data_app/data_app.py" />
-        <option value="$PROJECT_DIR$/static/css/main.css" />
+        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/js/script.js" />
-        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/static/css/main.css" />
       </list>
     </option>
   </component>
@@ -148,10 +151,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="221" />
-    <option name="y" value="23" />
+    <option name="x" value="236" />
+    <option name="y" value="214" />
     <option name="width" value="1426" />
-    <option name="height" value="813" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -169,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -224,6 +226,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="imgs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -244,6 +264,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -449,10 +470,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="23" width="1426" height="813" extended-state="0" />
-    <editor active="true" />
+    <frame x="236" y="214" width="1426" height="725" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12572254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1300578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -460,7 +480,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21011059" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -484,6 +504,246 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_app/data_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="45" column="91" lean-forward="false" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1507898376000" expanded="true" signature="209:294" ph="CREATE TABLE... known_url" />
+            <marker date="1507898376000" expanded="true" signature="311:504" ph="CREATE TABLE... season" />
+            <marker date="1507898376000" expanded="true" signature="503:504" ph="CREATE TABLE... season" />
+            <marker date="1507898376000" expanded="true" signature="1174:1195" ph="SELECT count... url" />
+            <marker date="1507898376000" expanded="true" signature="1174:1215" ph="SELECT count... known_url" />
+            <marker date="1507898376000" expanded="true" signature="1174:1227" ph="SELECT count... known_url" />
+            <marker date="1507898376000" expanded="true" signature="1404:1432" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1404:1437" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1404:1448" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1466:1496" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1526:1569" ph="INSERT INTO known_url... " />
+            <marker date="1507898376000" expanded="true" signature="1911:2005" ph="INSERT INTO season... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_app/reading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1507897677000" expanded="true" signature="117:137" ph="select * fro... season" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_app/data_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1507898376000" expanded="true" signature="209:294" ph="CREATE TABLE... known_url" />
+            <marker date="1507898376000" expanded="true" signature="311:504" ph="CREATE TABLE... season" />
+            <marker date="1507898376000" expanded="true" signature="503:504" ph="CREATE TABLE... season" />
+            <marker date="1507898376000" expanded="true" signature="1174:1195" ph="SELECT count... url" />
+            <marker date="1507898376000" expanded="true" signature="1174:1215" ph="SELECT count... known_url" />
+            <marker date="1507898376000" expanded="true" signature="1174:1227" ph="SELECT count... known_url" />
+            <marker date="1507898376000" expanded="true" signature="1404:1432" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1404:1437" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1404:1448" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1466:1496" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1526:1569" ph="INSERT INTO known_url... " />
+            <marker date="1507898376000" expanded="true" signature="1911:2005" ph="INSERT INTO season... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_app/reading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1507897677000" expanded="true" signature="117:137" ph="select * fro... season" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_app/data_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="45" column="91" lean-forward="false" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1507898376000" expanded="true" signature="209:294" ph="CREATE TABLE... known_url" />
+            <marker date="1507898376000" expanded="true" signature="311:504" ph="CREATE TABLE... season" />
+            <marker date="1507898376000" expanded="true" signature="503:504" ph="CREATE TABLE... season" />
+            <marker date="1507898376000" expanded="true" signature="1174:1195" ph="SELECT count... url" />
+            <marker date="1507898376000" expanded="true" signature="1174:1215" ph="SELECT count... known_url" />
+            <marker date="1507898376000" expanded="true" signature="1174:1227" ph="SELECT count... known_url" />
+            <marker date="1507898376000" expanded="true" signature="1404:1432" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1404:1437" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1404:1448" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1466:1496" ph="DELETE FROM " />
+            <marker date="1507898376000" expanded="true" signature="1526:1569" ph="INSERT INTO known_url... " />
+            <marker date="1507898376000" expanded="true" signature="1911:2005" ph="INSERT INTO season... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_app/reading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1507897677000" expanded="true" signature="117:137" ph="select * fro... season" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data_app/data_app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -512,17 +772,17 @@
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-            <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
           </folding>
         </state>
       </provider>
@@ -613,17 +873,17 @@
           <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-            <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
           </folding>
         </state>
       </provider>
@@ -685,17 +945,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-            <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
           </folding>
         </state>
       </provider>
@@ -724,17 +984,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-            <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
           </folding>
         </state>
       </provider>
@@ -763,17 +1023,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-            <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
           </folding>
         </state>
       </provider>
@@ -784,51 +1044,24 @@
           <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-            <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_app/reading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1507897677000" expanded="true" signature="117:137" ph="select * fro... season" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_app/data_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="600">
           <caret line="45" column="91" lean-forward="false" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="91" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -848,10 +1081,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_app/reading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1507897677000" expanded="true" signature="117:137" ph="select * fro... season" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="1425">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
             <element signature="e#0#51#0" expanded="false" />
           </folding>
@@ -860,22 +1112,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="750">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="59" selection-end-column="0" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
-            <marker date="1508450035000" expanded="true" signature="426:446" ph="select * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="1563:1646" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2267" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2171:2314" ph="SELECT dt,ho... season" />
-            <marker date="1508450035000" expanded="true" signature="2281:2313" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="2832:2976" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="2943:2975" ph="SELECT MAX(n... season" />
-            <marker date="1508450035000" expanded="true" signature="3488:3589" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="4861:4933" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="6656:6757" ph="SELECT * fro... season" />
-            <marker date="1508450035000" expanded="true" signature="8216:8288" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="426:446" ph="select * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="1617:1700" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2321" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2225:2368" ph="SELECT dt,ho... season" />
+            <marker date="1508496066000" expanded="true" signature="2335:2367" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="2886:3030" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="2997:3029" ph="SELECT MAX(n... season" />
+            <marker date="1508496066000" expanded="true" signature="3542:3643" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="4915:4987" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="6710:6811" ph="SELECT * fro... season" />
+            <marker date="1508496066000" expanded="true" signature="8270:8342" ph="SELECT * fro... season" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
