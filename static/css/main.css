@@ -4,7 +4,10 @@ body{
 h1{
     color: red;
 }
-
+.box {
+    border: 1px solid red ;
+    display: inline-block;
+}
 .image_block{
     display: inline-block;
 }
