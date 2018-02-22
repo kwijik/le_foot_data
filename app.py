@@ -10,7 +10,6 @@ import numpy as np
 import sqlite3
 
 
-
 #instantiate the flask app
 app = Flask(__name__)
 

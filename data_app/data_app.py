@@ -38,7 +38,7 @@ for i in range(numberOfSeasons):
     cur.execute("INSERT INTO known_url(url,hash) VALUES(?,?)",(url,hash,))
 
     season = pd.read_csv(url, header=0, sep=',')
-    print(season["HomeTeam"][0])
+    #print(season["HomeTeam"][0])
     for s in range(len(season)):
         print("S: {0}, Type: {1}".format(season["FTHG"][s].item(),type(season["FTHG"][s].item())))
         dt = strptime(season["Date"][s], "%d/%m/%y")
@@ -52,7 +52,3 @@ for i in range(numberOfSeasons):
 conn.commit()
 
 conn.close()
-
-
-
-

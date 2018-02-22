@@ -4,7 +4,7 @@ import sqlite3
 
 conn = sqlite3.connect('seasons.db')
 
-df = pd.read_sql(sql = 'select * from season', con = conn)
+df = pd.read_sql(sql = 'select * from season where nmseason=17', con = conn)
 
 # преобразовать команды в двоичные числа - степени 2
 
